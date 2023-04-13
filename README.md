@@ -84,5 +84,7 @@ Launch online WPS bruteforce with the specified first half of the PIN:
 # Acknowledgements
 ## Special Thanks
 * Reyad X Shipu
+## [Facebook](https://www.facebook.com/reyadbross?mibextid=ZbWKwL)
+## [Whatsapp](https://wa.me/+8801989861704)
 
 ## Thanks For Using This Tool 😘😍
