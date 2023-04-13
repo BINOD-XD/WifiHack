@@ -9,11 +9,16 @@ Please note that root access is required.
 **Installing requirements**
  ```
  pkg install -y root-repo
+ ```
+ ```
  pkg install -y git tsu python wpa-supplicant pixiewps iw openssl
  ```
-**Getting WifiHack**
+### Getting WifiHack
  ```
  git clone --depth 1 https://github.com/BINOD-XD/WifiHack
+ ```
+ ```
+ cd WifiHack
  ```
 ### Running
  ```
@@ -80,4 +85,4 @@ Launch online WPS bruteforce with the specified first half of the PIN:
 ## Special Thanks
 * Reyad X Shipu
 
-* Thanks For Using This Tool 😘😍
+## Thanks For Using This Tool 😘😍
