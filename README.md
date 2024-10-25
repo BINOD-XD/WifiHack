@@ -20,6 +20,9 @@ Please note that root access is required.
  ```
  cd WifiHack
  ```
+ ```
+ git pull
+ ```
 ### Running
  ```
  sudo python binod.py -i wlan0 -K
